@@ -1,0 +1,84 @@
+.logo {
+    width: 120px;
+}
+
+
+.buy-uvodo-button {
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+}
+
+.buy-uvodo-button:hover {
+    background-color: #887AE8;
+    border: none;
+}
+
+ @media (min-width: 900px) {
+    .buy-uvodo-button {
+        margin-left: 10%;  
+    }   
+}
+ 
+
+.active {
+    color: #887AE8 !important;
+}
+
+.nav-link:hover {
+    color: #887AE8 !important;
+}
+
+@media (min-width: 1030px) {
+    .buy-uvodo-button {
+        margin-left: 40%;  
+    }   
+}
+
+@media (min-width: 900px) {
+    .hero-1 {
+        width: 450px;
+   } 
+}
+
+
+@media (min-width: 1030px) {
+    .hero-1 {
+         width: 650px;
+    }
+}
+
+.btn-primary {
+    background-color: #887AE8;
+}
+
+.btn-primary:hover {
+    background-color: #887AE8;
+}
+
+.btn-outline-primary:hover {
+    background-color: #887AE8;
+}
+
+.company-items {
+    margin-right: 3%;
+}
+
+.backgr {
+    background-color: #F3F1FC;
+}
+
+.mob-text {
+    color: #624ce0;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+}
+
+@media (min-width: 550px) {
+
+    #pocket {
+        padding: 5em;
+    }
+
+}
